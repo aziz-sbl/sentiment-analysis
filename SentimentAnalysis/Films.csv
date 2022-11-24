@@ -1,0 +1,51 @@
+,movie,year,rating,genre,runtime_min,imdb,metascore,votes
+0,Black Panther: Wakanda Forever,2022,PG-13,"Action, Adventure, Drama            ",161,7.3,67,71024
+1,Black Adam,2022,PG-13,"Action, Adventure, Fantasy            ",125,6.9,41,119255
+2,Avatar: The Way of Water,2022,,"Action, Adventure, Fantasy            ",190,,,
+3,Black Panther,2018,PG-13,"Action, Adventure, Sci-Fi            ",134,7.3,88,761145
+4,Everything Everywhere All at Once,2022,R,"Action, Adventure, Comedy            ",139,8.1,81,237179
+5,Nope,2022,R,"Horror, Mystery, Sci-Fi            ",130,6.9,77,156222
+6,Thor: Love and Thunder,2022,PG-13,"Action, Adventure, Comedy            ",118,6.3,57,308868
+7,Avatar,2009,PG-13,"Action, Adventure, Fantasy            ",162,7.8,83,1244954
+8,Morbius,2022,PG-13,"Action, Adventure, Horror            ",104,5.2,35,119350
+9,Interstellar,2014,PG-13,"Adventure, Drama, Sci-Fi            ",169,8.6,74,1808493
+10,Oblivion,2013,PG-13,"Action, Adventure, Sci-Fi            ",124,7,54,525866
+11,Spider-Man: No Way Home,2021,PG-13,"Action, Adventure, Fantasy            ",148,8.3,71,744013
+12,Crimes of the Future,2022,R,"Drama, Horror, Sci-Fi            ",107,5.9,67,26304
+13,Rogue One,2016,PG-13,"Action, Adventure, Sci-Fi            ",133,7.8,65,633712
+14,Ant-Man and the Wasp: Quantumania,2023,,"Action, Adventure, Comedy            ",,,,
+15,Dune: Part One,2021,PG-13,"Action, Adventure, Drama            ",155,8,74,624693
+16,Jurassic World: Dominion,2022,PG-13,"Action, Adventure, Sci-Fi            ",147,5.7,38,148700
+17,V for Vendetta,2005,R,"Action, Drama, Sci-Fi            ",132,8.2,62,1119148
+18,Avengers: Endgame,2019,PG-13,"Action, Adventure, Drama            ",181,8.4,78,1117910
+19,Prey,2022,R,"Action, Adventure, Drama            ",99,7.2,71,183211
+20,Strange World,2022,PG,"Animation, Action, Adventure            ",102,,,
+21,Back to the Future,1985,,"Adventure, Comedy, Sci-Fi            ",116,8.5,87,1197316
+22,Inception,2010,PG-13,"Action, Adventure, Sci-Fi            ",148,8.8,74,2335091
+23,The Hunger Games,2012,PG-13,"Action, Adventure, Sci-Fi            ",142,7.2,68,916536
+24,Doctor Strange in the Multiverse of Madness,2022,PG-13,"Action, Adventure, Fantasy            ",126,6.9,60,404071
+25,DC League of Super-Pets,2022,PG,"Animation, Action, Adventure            ",105,7.3,56,60732
+26,Eternals,2021,PG-13,"Action, Adventure, Fantasy            ",156,6.3,52,338362
+27,Tenet,2020,PG-13,"Action, Sci-Fi, Thriller            ",150,7.3,69,499349
+28,Blade Runner 2049,2017,R,"Action, Drama, Mystery            ",164,8,81,567876
+29,Spider-Man,2002,PG-13,"Action, Adventure, Sci-Fi            ",121,7.4,73,815257
+30,R.I.P.D.,2013,PG-13,"Action, Adventure, Comedy            ",96,5.6,25,134444
+31,Don't Look Up,2021,R,"Comedy, Drama, Sci-Fi            ",138,7.2,49,532220
+32,The Super Mario Bros. Movie,2023,PG,"Animation, Adventure, Comedy            ",,,,
+33,Ghostbusters: Afterlife,2021,PG-13,"Adventure, Comedy, Fantasy            ",124,7.1,45,180594
+34,Zack Snyder's Justice League,2021,R,"Action, Adventure, Fantasy            ",242,8,54,395641
+35,Jurassic Park,1993,PG-13,"Action, Adventure, Sci-Fi            ",127,8.2,68,984482
+36,Free Guy,2021,PG-13,"Action, Adventure, Comedy            ",115,7.1,62,366521
+37,Avengers: Infinity War,2018,PG-13,"Action, Adventure, Sci-Fi            ",149,8.4,68,1070465
+38,The Matrix,1999,R,"Action, Sci-Fi            ",136,8.7,73,1902376
+39,Samaritan,2022,PG-13,"Action, Drama, Fantasy            ",102,5.7,45,42972
+40,The Suicide Squad,2021,R,"Action, Adventure, Comedy            ",132,7.2,72,348125
+41,Next Exit,2022,,"Comedy, Mystery, Romance            ",106,5.7,59,478
+42,Deadpool,2016,R,"Action, Adventure, Comedy            ",108,8,65,1032292
+43,Iron Man,2008,PG-13,"Action, Adventure, Sci-Fi            ",126,7.9,79,1054843
+44,The Fifth Element,1997,PG-13,"Action, Adventure, Sci-Fi            ",126,7.6,52,474169
+45,Man of Steel,2013,PG-13,"Action, Adventure, Sci-Fi            ",143,7.1,55,770348
+46,Significant Other,2022,R,"Drama, Mystery, Sci-Fi            ",84,5.7,57,5037
+47,Moonfall,2022,PG-13,"Action, Adventure, Sci-Fi            ",130,5.1,41,76369
+48,The Prestige,2006,PG-13,"Drama, Mystery, Sci-Fi            ",130,8.5,66,1326134
+49,Alien,1979,R,"Horror, Sci-Fi            ",117,8.5,89,878756
